@@ -1,5 +1,5 @@
 # Database-and-Programming
 
-Introduction
+## Introduction
 
-This repository contains most of the assignment we have been going through the first two semesters at Lillebaelt Academy
+This repository contains most of the assignment we have been going through the first two semesters at Lillebaelt Academy.
